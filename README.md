@@ -31,4 +31,5 @@ Para un mejor portal del sitio comenta que sección te gustaria trabajar (Homepa
 ## Colaboradores
 
 Alan Badillo [badillosoft](https://github.com/badillosoft/)
+
 Carlos Razo [RazoDev](https://github.com/RazoDev)
