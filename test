@@ -1,0 +1,10 @@
+Base de Datos: MiEmpresa
+
+Colecciones
+	> Documentos
+
+Colección: Usuarios
+	> pepe.bson
+	> paco.json
+	> raul.json
+	> ...

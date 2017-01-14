@@ -1,0 +1,10 @@
+{
+	"username": "pepe69",
+	"password": "123",
+	"email": "pepe@gmail.com",
+	"picture": {
+		"small": "http://mi_image.jpg",
+		"medium": "http://mi_image.jpg",
+		"large": "http://mi_image.jpg"
+	}
+}
